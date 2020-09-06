@@ -14,7 +14,7 @@
 ## 📙 Installation:-
 1. Download the Zip version of this repo or clone this repo using the command below
 ```
-git clone https://github.com/roshanconnor123/Fclone_Tg_Bot
+git clone https://github.com/RbotzA/Fclone_Tg_Bot
 ```
 2. Unzip the Repository and Open CMD inside it (if u used git clone - Change directory to cloned repository)- and run this
 ```
@@ -38,7 +38,7 @@ gclone_para_override = Leave it Blank
 
 🔶 Running it in Heroku:-
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Nenokkadine/FClone_Tg_Bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/RbotzA/FClone_Tg_Bot/tree/master)
 
 1. Create one app in Heroku
 2. Push the Files to Heroku using Heroku CLI
